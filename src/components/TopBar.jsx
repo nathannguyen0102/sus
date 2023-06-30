@@ -1,12 +1,12 @@
 import React from "react";
 import { AiFillPhone, AiOutlineClockCircle } from "react-icons/ai";
-import { BsChatSquareDots } from "react-icons/bs";
+// import { BsChatSquareDots } from "react-icons/bs";
 
 const TopBar = () => {
   return (
     <div className="flex justify-between items-center px-4 py-2 ">
       <div className="flex items-center">
-        <BsChatSquareDots size={28} className="mr-2" />
+        {/* <BsChatSquareDots size={28} className="mr-2" /> */}
         <h1 className="text-xl font-bold ">Hokkaido</h1>
       </div>
       <div className="flex">
