@@ -10,7 +10,7 @@ const Reservation = () => {
         <div className="flex flex-col my-2 py-2">
           <label>Destination</label>
           <select className="lg:w-[300px] md:w-full border rounded-md p-2">
-            <option value="">Los Angeles</option>
+            <option value="">Chicago</option>
             <option>San Francisco</option>
             <option>San Diego</option>
           </select>
@@ -26,8 +26,8 @@ const Reservation = () => {
           </div>
         </div>
         <div className="flex flex-col my-2 p-2">
-          <label>Search</label>
-          <button>Rates & Availabilities</button>
+          <label>Search 1</label>
+          <button>Rates and Availabilities</button>
         </div>
       </form>
     </div>
