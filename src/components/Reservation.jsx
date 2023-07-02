@@ -11,7 +11,7 @@ const Reservation = () => {
           <label>Destination</label>
           <select className="lg:w-[300px] md:w-full border rounded-md p-2">
             <option value="">Chicago</option>
-            <option>San Francisco</option>
+            <option>Sasdcisco</option>
             <option>San Diego</option>
           </select>
         </div>

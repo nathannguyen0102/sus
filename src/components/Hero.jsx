@@ -14,8 +14,8 @@ const Hero = () => {
           <h2 className="text-4xl py-4 italic">With Hokkaido</h2>
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae velit
-            adipisci similique blanditiis ipsam perferendis repellat doloribus
-            sunt quibusdam provident?
+            adipisci similiiis ipsam perferendis repellat doloribus sunt
+            quibusdam provident?
           </p>
         </div>
       </div>
