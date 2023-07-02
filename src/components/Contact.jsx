@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="max-w-[1140px] m-auto w-full p-4 py-16">
-      <h2 className="text-center">Send us a message</h2>
+      <h2 className="text-center">Send Us a message</h2>
       <p className="text-center py-2">We're standing by</p>
       <div className="grid md:grid-cols-2">
         <img

@@ -13,11 +13,9 @@ const Hero = () => {
           <h1 className="font-bold text-4xl">Find Your Special Meal</h1>
           <h2 className="text-4xl py-4 italic">With Hokkaido</h2>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet,
-            est voluptate nobis saepe cum fuga! Nesciunt nulla quod sed quo
-            pariatur hic ratione illo ut enim, quas reiciendis. Molestias saepe
-            sint dolorem nesciunt debitis consequatur neque maxime quia libero
-            quod.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae velit
+            adipisci similique blanditiis ipsam perferendis repellat doloribus
+            sunt quibusdam provident?
           </p>
         </div>
       </div>
