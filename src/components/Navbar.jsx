@@ -19,7 +19,7 @@ const Navbar = () => {
     <div className="w-full min-h-[50px] flex justify-between items-center absolute z-10 text-white bg-gray-700/80 ">
       <ul className="hidden sm:flex px-4 ">
         <li>
-          <a href="/">Home</a>
+          <a href="/">Hoasdasdasde</a>
         </li>
         <li>
           <a href="#gallery">Gallery</a>

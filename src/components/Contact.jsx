@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="max-w-[1140px] m-auto w-full p-4 py-16">
       <h2 className="text-center">Send Us a message</h2>
-      <p className="text-center py-2">We're standing by</p>
+      <p className="text-center py-2">We'asdasdng by</p>
       <div className="grid md:grid-cols-2">
         <img
           src="https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ1fHxqYXBhbmVzZSUyMHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"

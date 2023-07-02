@@ -25,7 +25,7 @@ const Signature = () => {
       </div>
       <div className="relative p-4">
         <h3 className="absolute z-10 top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] text-white font-bold text-2xl">
-          Seafo
+          Sasdasd asd
         </h3>
         <img
           src="https://images.unsplash.com/photo-1611519685019-46269a13fe91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"

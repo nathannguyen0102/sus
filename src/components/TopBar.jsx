@@ -12,13 +12,13 @@ const TopBar = () => {
       <div className="flex">
         <div className="hidden md:flex items-center px-6">
           <AiOutlineClockCircle size={26} className="mr-3" />
-          <p>9AM - 9PM</p>
+          <p>9AMqweqwePM</p>
         </div>
         <div className="hidden md:flex items-center px-6">
           <AiFillPhone size={26} className="mr-3" />
-          <p>777-777-7777</p>
+          <p>777-77asd7</p>
         </div>
-        <button className="">Reaqweqwetion</button>
+        <button className="">Reaqweasdion</button>
       </div>
     </div>
   );
