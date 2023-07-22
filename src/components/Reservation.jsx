@@ -12,7 +12,7 @@ const Reservation = () => {
           <select className="lg:w-[300px] md:w-full border rounded-md p-2">
             <option value="">Chicago</option>
             <option>Sasdcisco</option>
-            <option>San Diasddasd asadego</option>
+            <option>San Diasddd asadego</option>
           </select>
         </div>
         <div className="flex w-full">
