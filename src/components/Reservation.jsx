@@ -27,7 +27,7 @@ const Reservation = () => {
         </div>
         <div className="flex flex-col my-2 p-2">
           <label>Search 1</label>
-          <button>Rates and Avasdes</button>
+          <button>Rates an Avasdes</button>
         </div>
       </form>
     </div>
